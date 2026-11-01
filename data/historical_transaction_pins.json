@@ -40,6 +40,14 @@
       "area": "Saint-Joseph-de-Sorel",
       "status": "vendu",
       "uls": "10480457"
+    },
+    {
+      "lat": 46.02669,
+      "lng": -73.15451,
+      "title": "Rue Mandeville",
+      "area": "Sorel-Tracy",
+      "status": "vendu",
+      "uls": "27154952"
     }
   ]
 }
